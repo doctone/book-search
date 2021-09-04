@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/421/654/large_2x/open-book-on-white-background-free-photo.jpg");
+    height: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+
+}
+
+.book-list {
+    visibility: hidden;
+    margin-top: 50px;
+    padding: 5px;
+}
+
+#book-results {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30px;
+   
+}
